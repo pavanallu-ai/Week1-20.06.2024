@@ -10,7 +10,6 @@ Welcome to Week-1 Merai's documentation!
    :maxdepth: 2
    :caption: Regression
 
-
    regression
 
 
